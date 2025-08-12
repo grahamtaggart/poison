@@ -15,7 +15,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     brand_image = "favicon.png"    # path to the image shown in the sidebar
     description = "Books, software, productivity." # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
-    favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
+    favicon = "/static/favicon.png"             # path to favicon (defaults to favicon.png)
 
     front_page_content = ["posts", "readings"]
     # MENU PLACEHOLDER
