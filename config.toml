@@ -12,7 +12,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [params]
     brand = "Graham Taggart"                      # name of your site - appears in the sidebar
-    brand_image = "favicon.png"    # path to the image shown in the sidebar
+    brand_image = "/images/favicon.png"    # path to the image shown in the sidebar
     description = "Books, software, productivity." # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     favicon = "/images/favicon.png"             # path to favicon (defaults to favicon.png)
